@@ -57,6 +57,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void onMyButtonClick(View view)
     {
-        textView.setText("Hello, Aleksander!");
+        textView.setText("Hello, Aleksander!!!");
     }
 }
